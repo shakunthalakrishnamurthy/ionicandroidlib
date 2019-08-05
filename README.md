@@ -5,6 +5,7 @@ Guidelines to integrate this library into a client application:
 Library:
 1. Build the library file by "Make Module" under "Build" option.
 2. .aar is generated in \build\outputs\aar folder of the project.
+3. Can find cordova.jar from the project included here under app/libs folder.
 
 
 Client Application[Android]
